@@ -102,7 +102,7 @@ Add a screenshot of your completed Power BI dashboard here.
 
 Save the image as `powerbi/dashboard_preview.png`, then embed it below:
 
-![Marketing Campaign Analytics Dashboard](PowerBi/Dashboard.png)
+![Marketing Campaign Analytics Dashboard](Dashboard.png)
 
 ## 👩‍💻 Author
 
